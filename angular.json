@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "sherlockUnify"
+  "defaultProject": "sherlockUnify",
+  "cli": {
+    "analytics": "82b04515-7665-412c-9cbd-2352c0c435ea"
+  }
 }
