@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HomePageComponent } from './home-page/home-page.component';
 import { RetailComponent } from './retail/retail.component';
 import { FooterCompComponent } from './footer-comp/footer-comp.component';
+import { PrivacyNoticeComponent } from './privacy-notice/privacy-notice.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomePageComponent,
     RetailComponent,
-    FooterCompComponent
+    FooterCompComponent,
+    PrivacyNoticeComponent
   ],
   imports: [
     BrowserModule,
